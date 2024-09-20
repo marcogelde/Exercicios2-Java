@@ -11,6 +11,5 @@ public class Ex07 {
         } else if (idade < 0) {
             System.out.println("Idade indisponível");
         } else System.out.println("Menor de idade");
-
     }
 }
